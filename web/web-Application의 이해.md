@@ -12,9 +12,9 @@
 
 2. **sever.xml**에 등록하기
 
-   **sever.xml**에 **<Context>**태그를 등록하여 사용한다.
+   **sever.xml**에 <Context>태그를 등록하여 사용한다.
 
-   **<Context>**태그 구성요소
+   <Context>태그 구성요소
 
    1. path : web application의 컨텍스트이름
    2. docBase : 컨텍스트에 대한 웹 애플리케이션의 실제 위치한 경로, 실제 웹 애플리케이션의 WEB-INF가 위치한 경로
