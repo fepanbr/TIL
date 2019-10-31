@@ -679,5 +679,5 @@ yarn build와 yarn start를 통해 잘 되는지 확인합니다.
 
 출처 :
 
-[React 개발 환경을 구축하면서 배우는 Webpack 기초]( [https://velog.io/@jeff0720/React-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-Webpack-%EA%B8%B0%EC%B4%88#%EC%9B%B9%ED%8C%A9%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%B9%8C%EB%93%9C%ED%95%98%EA%B8%B0](https://velog.io/@jeff0720/React-개발-환경을-구축하면서-배우는-Webpack-기초#웹팩으로-리액트-빌드하기) )
+[React 개발 환경을 구축하면서 배우는 Webpack 기초]( https://velog.io/@jeff0720/React-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-Webpack-%EA%B8%B0%EC%B4%88 )
 
