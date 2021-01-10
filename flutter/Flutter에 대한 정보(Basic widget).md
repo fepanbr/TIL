@@ -1,36 +1,20 @@
-## Flutter에 대한 정보
+## Layout in Flutter
 
 
 
-### Basic widget 
+> 이 글은 [Layout in Flutter](https://flutter.dev/docs/development/ui/layout) 을 공부하며 정리한 글입니다.
 
 
 
-#### Text
+### 이 글의 Point
 
-스타일이 적용된 text를 앱에 띄울 수 있다.
+Flutter의 레이아웃의 포인트는 3가지입니다.
 
-
-
-#### Row, Column
-
-레이아웃을 만들 때 사용 된다. 웹에 flexbox처럼 고안되었다.
+1. 플러터의 위젯(Widget)은 UI를 빌드하는 **Class**입니다.
+2. 위젯은 레이아웃(Layout)이나 UI요소로 사용됩니다.
+3. 복잡한 레이아웃(Layout)은 **간단한 위젯**으로 구성합니다.
 
 
 
-#### Stack
 
-horizontally, vertically과 같은 선형적인 위젯이 아니라, web에 absolute position 같은 속성을 가진 위젯이다.
-
-즉, 어딘가에 상대적으로 놓일 수 있다.
-
-
-
-#### Container
-
-박스 형태의 위젯이다. shadow, background, border, margin, padding 같은 속성을 줄 수 있다. 즉, 박스형태를 꾸밀 때 사용한다. 더 깊게 사용하자면, matrix같은 형태로 3차원 형태로도 표현 가능하다.
-
-
-
-#### 
 
